@@ -18,32 +18,32 @@ Trends: Older establishments show strong cumulative sales
 
 🧰 Tools & Techniques
 
-Microsoft Excel
+1.Microsoft Excel
 
-Pivot Tables & Pivot Charts
+2.Pivot Tables & Pivot Charts
 
-Slicers & Filters
+3.Slicers & Filters
 
-Data Cleaning
+4.Data Cleaning
 
-Dashboard Design & Formatting
+5.Dashboard Design & Formatting
 
 🔍 Insights
 
-Tier-3 outlets contribute maximum sales
+1.Tier-3 outlets contribute maximum sales
 
-Low-fat items dominate customer demand
+2.Low-fat items dominate customer demand
 
-Large outlets outperform medium & small establishments
+3.Large outlets outperform medium & small establishments
 
-High-volume categories drive major revenue
+4.High-volume categories drive major revenue
 
 💡 Recommendations
 
-Expand Tier-3 outlets
+1.Expand Tier-3 outlets
 
-Promote high-demand low-fat products
+2.Promote high-demand low-fat products
 
-Optimize product mix in underperforming regions
+3.Optimize product mix in underperforming regions
 
-Invest in larger format stores
+4.Invest in larger format stores
